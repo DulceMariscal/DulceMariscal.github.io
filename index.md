@@ -9,7 +9,7 @@ Before starting at Pitt, I did my undergraduate in Mechanical Engineering at the
 
 ## Research 
 
-I am interested in understanding how locomotor adaptation happens, in...
+Our nervous system can adjust our movement according to environmental demands. This ability to adapt our movements is especially crucial for locomotion; because the movement patterns that we use when we walk on ice are not the same as the ones we need when we walk on sand. I am interested in understanding how this type of motor control and adaptation happens. I am particularly interested in understanding how different brain regions affect our ability to adjust our movement to environmental changes.
 
 ## Publications 
 
@@ -19,13 +19,13 @@ Montoya J.A, **Mariscal D.M.**, Romero E. (2016). Energy harvesting from human w
 
 Romero E., Espinoza A., Castillo E., **Mariscal D.M**, Montoya J., Restrepo, B. (2017). Pendulum Generators to Power Wearable Devices from Human Motion. 15th LACCEI International Multi-Conference for Engineering, Education, and Technology: “Global Partnerships for Development and Engineering Education”, 19-21 July 2017, Boca Raton Fl, United States.
 
-# Oral Presentations
+## Oral Presentations
 
 **Mariscal, D.M**, Iturralde P., Torres-Oviedo G. (2015). Perturbation awareness cannot change the generalization of treadmill-learning to overground walking. Biomedical Engineering Society. Tampa, FL.
 
 Sombric C.J., **Mariscal D.M**, Calver J., Iturralde P., Torres-Oviedo G. (2015) It's all uphill from here: Incline split-belt walking increases locomotor adaptation in unimpaired subjects and post-stroke patients. Society of Neuroscience. Chicago, IL. *(Sombric as presenter)*
 
-# Poster Presentations 
+## Poster Presentations 
 
 **Mariscal, DM**, Sombric C., Torres-Oviedo G. (2019). Interaction between aging and walking speed on the generalization of locomotor adaptation. Society of Neuroscience. Chicago, IL.
 
