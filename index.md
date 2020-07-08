@@ -13,9 +13,9 @@ I am interested in understanding how locomotor adaptation happens, in...
 
 ## Publications 
 
-**Mariscal DM**, Iturralde PA, Torres-Oviedo G., (2020) Altering attention to split-belt walking increases the generalization of motor memories across walking contexts. J Neurophysiol. doi:https://doi.org/10.1152/jn.00509.2019  Preprint version: https://doi.org/10.1101/470930
+**Mariscal DM**, Iturralde PA, Torres-Oviedo G., (2020) Altering attention to split-belt walking increases the generalization of motor memories across walking contexts. J Neurophysiol. [Journal Page] (https://doi.org/10.1152/jn.00509.2019)  [Preprint version] (https://doi.org/10.1101/470930)
 
-Montoya J.A, **Mariscal D.M.**, Romero E. (2016). Energy harvesting from human walking to power biomedical devices using oscillating generation. 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) pp. 4951-4954.doi:10.1109/EMBC.2016.7591838
+Montoya J.A, **Mariscal D.M.**, Romero E. (2016). Energy harvesting from human walking to power biomedical devices using oscillating generation. 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) pp. 4951-4954. doi:10.1109/EMBC.2016.7591838
 
 Romero E., Espinoza A., Castillo E., **Mariscal D.M**, Montoya J., Restrepo, B. (2017). Pendulum Generators to Power Wearable Devices from Human Motion. 15th LACCEI International Multi-Conference for Engineering, Education, and Technology: “Global Partnerships for Development and Engineering Education”, 19-21 July 2017, Boca Raton Fl, United States.
 
@@ -23,7 +23,7 @@ Romero E., Espinoza A., Castillo E., **Mariscal D.M**, Montoya J., Restrepo, B. 
 
 **Mariscal, D.M**, Iturralde P., Torres-Oviedo G. (2015). Perturbation awareness cannot change the generalization of treadmill-learning to overground walking. Biomedical Engineering Society. Tampa, FL.
 
-Sombric C.J., **Mariscal D.M**, Calver J., Iturralde P., Torres-Oviedo G. (2015) It's all uphill from here: Incline split-belt walking increases locomotor adaptation in unimpaired subjects and post-stroke patients. Society of Neuroscience. Chicago, IL. (Sombric as presenter)
+Sombric C.J., **Mariscal D.M**, Calver J., Iturralde P., Torres-Oviedo G. (2015) It's all uphill from here: Incline split-belt walking increases locomotor adaptation in unimpaired subjects and post-stroke patients. Society of Neuroscience. Chicago, IL. *(Sombric as presenter)*
 
 # Poster Presentations 
 
