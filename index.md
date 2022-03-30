@@ -5,13 +5,15 @@
 
 I am a PhD student in the Bioengineering Department at the University of Pittsburgh. At Pitt, I work under the superveison of Dr. Gelsy Torres-Oviedo at the [Sensorimotor Learning Lab](https://www.engineering.pitt.edu/SML_Lab/) 
 
-Before starting at Pitt, I did my undergraduate in Mechanical Engineering at the Universidad del Turabo (now, Universidad Ana G. Méndez, Recinto de Gurabo) in Puerto Rico. But don't get deceived I am Venezuelan; I was able to do my undergrad studies in "La Isla del Encanto" thanks an athletic scholarship with the Tubabo swimming team. 
+I did my undergraduate in Mechanical Engineering at the Universidad del Turabo (now, Universidad Ana G. Méndez, Recinto de Gurabo) in Puerto Rico. But don't get deceived I am Venezuelan; I was able to do my undergrad studies in "La Isla del Encanto" thanks an athletic scholarship with the Tubabo swimming team. 
 
 ## Research 
 
-Our nervous system can adjust our movement according to environmental demands. This ability to adapt our movements is especially crucial for locomotion; because the movement patterns that we use when we walk on ice are not the same as the ones we need when we walk on sand. I am interested in understanding how this type of motor control and adaptation happens. I am particularly interested in understanding how different brain regions affect our ability to adjust our movement to environmental changes.
+Our nervous system can adjust our movement according to environmental demands. This ability to adapt our movements is especially crucial for locomotion; because the movement patterns that we use when we walk on ice are not the same as the ones we need when we walk on sand. I am interested in understanding how this type of motor control and adaptation happens. I am particularly interested in understanding how different brain regions affect our ability to adjust our movement to environmental changes and how this adjustements are carryover to different situations.
 
 ## Publications 
+
+**Mariscal DM**, Vasudevan E.V., Malone L.,Torres-Oviedo G., Bastian A.J., (2022) Context-specificity of locomotor learning is developed during childhood. eNeuro. [Journal Page] (https://doi.org/10.1523/ENEURO.0369-21.2022)
 
 **Mariscal DM**, Iturralde PA, Torres-Oviedo G., (2020) Altering attention to split-belt walking increases the generalization of motor memories across walking contexts. J Neurophysiol. [Journal Page] (https://doi.org/10.1152/jn.00509.2019)  [Preprint version] (https://doi.org/10.1101/470930)
 
