@@ -43,6 +43,8 @@ Sombric C.J., **Mariscal D.M**, Calver J., Iturralde P., Torres-Oviedo G. (2015)
 
 ## Awards and Honors
 
+2022 Provost Dissertation Year Fellowship for Historically Underrepresented Doctoral Students
+
 2019 National Science Foundation Graduate Research Fellow
 
 2018 Behavioral Brain (B2) T-32 training program 
