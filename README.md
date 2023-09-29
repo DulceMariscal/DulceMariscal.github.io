@@ -1,2 +1,3 @@
 # DulceMariscal.github.io
-This is my personal website 
+Hi! This is the repository for my personal website. I am currently working on making some updates... stay tune! 
+Dulce
