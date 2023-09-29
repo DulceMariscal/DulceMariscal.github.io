@@ -3,7 +3,7 @@
 
 ## About me
 
-I am a PhD student in the Bioengineering Department at the University of Pittsburgh. At Pitt, I work under the superveison of Dr. Gelsy Torres-Oviedo at the [Sensorimotor Learning Lab](https://www.engineering.pitt.edu/SML_Lab/) 
+I am a Postdoctoral Associate in the Bioengineering Department at the University of Pittsburgh. At Pitt, I work under the supervision of Dr. Gelsy Torres-Oviedo at the [Sensorimotor Learning Lab](https://www.engineering.pitt.edu/SML_Lab/) 
 
 I did my undergraduate in Mechanical Engineering at the Universidad del Turabo (now, Universidad Ana G. Méndez, Recinto de Gurabo) in Puerto Rico. But don't get deceived I am Venezuelan; I was able to do my undergrad studies in "La Isla del Encanto" thanks an athletic scholarship with the Tubabo swimming team. 
 
